@@ -1,6 +1,9 @@
 # my_flutter_app_dl
 
-A new Flutter project.
+Flutter digital library frontend 
+1. teacher login page
+2. View teacher contents including youtube videos
+3. Content details page
 
 ## Getting Started
 
